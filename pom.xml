@@ -179,5 +179,6 @@
 			<url>http://localhost:8081/nexus/content/repositories/releases/</url>
 		</repository>
 	</distributionManagement>
+	<packaging>war</packaging>
 
 </project>
