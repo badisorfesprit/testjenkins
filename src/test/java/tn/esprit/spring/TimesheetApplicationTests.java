@@ -7,7 +7,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 class TimesheetApplicationTests {
 
 	@Test
-	void contextLoads(a) {
+	void contextLoads() {
 	}
 
 }
